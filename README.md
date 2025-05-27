@@ -23,10 +23,12 @@ Excel Analytics & Feature Engineering : A fully dynamic Excel dashboard that ana
 - Created logic to flag Needs_Support = 1 if student is failing and Risk ≥ 3
 - Optimized for educational insights, institutional planning, and early intervention tracking
 
-## 🔗 Preview (Optional)
+## 🔗 Preview 
 
-Add screenshots or video walkthrough link here  
-Example: ![Dashboard Preview](dashboard.png)
+![1](https://github.com/user-attachments/assets/3468f78b-a184-4503-9d00-cd525a0a0dc5)
+![2](https://github.com/user-attachments/assets/9cd35a8b-72ed-41c6-b414-9ba7278189d0)
+![3](https://github.com/user-attachments/assets/ed934f11-186f-4d60-b8d4-aa0799608e47)
+![4](https://github.com/user-attachments/assets/4b6bc5ed-e622-4cf6-8425-586fbeac1964)
 
 ---
 
